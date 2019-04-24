@@ -5,4 +5,4 @@ Physics objects with psychedelic effect
 
 Drag & Drop the cursor of your mouse to launch the light. 
 
-![](img/readme.png)
+![alt tag](img/readme.png)
